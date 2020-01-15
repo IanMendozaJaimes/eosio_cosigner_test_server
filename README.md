@@ -2,8 +2,8 @@
 A server that cosigns a transaction.
 
 # Run
-'''
+```
 npm install
 node index.js
-'''
+```
 
