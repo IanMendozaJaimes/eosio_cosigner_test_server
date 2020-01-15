@@ -1,0 +1,34 @@
+{
+	"host":"https://testnet.telos.caleos.io",
+	"port":"443",
+	"allowedAccounts": {
+		"seedsaccntsx": {
+			"actions": [
+				"reset",
+				"joinuser",
+				"adduser",
+				"makeresident",
+				"makecitizen",
+				"testcitizen",
+				"testresident",
+				"update",
+				"addref",
+				"addrep",
+				"subrep",
+				"punish",
+				"vouch",
+				"migrate"
+			]
+		},
+		"forum": {
+			"actions": [
+				"createpost"
+			]
+		},
+		"cosigner": {
+			"actions": [
+				"noop"
+			]
+		}
+	}
+}
